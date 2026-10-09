@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**mikangrapefruit/mikangrapefruit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## はじめまして！
+プロフィールをご覧いただき、ありがとうございます。
+現在、保健師からITエンジニアへの転職を目指して学習しています。
+自己紹介
+これまで自治体の保健師として、住民への相談支援や関係機関との調整、業務マニュアルの作成などに携わってきました。
+業務の標準化や改善に取り組む中で、ITを活用した仕組みづくりに関心を持ち、プログラミングの学習を始めました。
+学習中の技術
+- Python（Django・Streamlit）
+- Java（Spring Boot）
+- HTML / CSS
+- Git / GitHub
+興味のある分野
+- Webアプリケーション開発
+- 社内システムの開発・運用・保守
+- 業務改善・業務効率化
+今後の目標
+実際に役立つアプリケーションの制作を通じて、設計・開発・運用に必要な知識と技術を身につけていきたいと考えています。
+学習内容や制作物も、少しずつ公開していく予定です。
